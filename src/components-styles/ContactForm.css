@@ -3,6 +3,17 @@ padding-top: 4px;
 padding-bottom: 5px;
 }
 
+.input-group-text{
+    margin-right: 15px;
+    margin-top: 4px;
+}
+
 .mainArea{
     padding-top: 25px;
+}
+
+.form-control{
+    border:rgb(248, 254, 255);
+    border-style: solid;
+    box-shadow: 2px 3px;
 }

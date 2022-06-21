@@ -37,7 +37,7 @@ const ContactForm = () => {
                         <i className='fas fa-envelope'></i>
                     </div>
                 </div>
-                <input className='form-control' type = 'email' placeholder='E-Mail' name = 'email' value = {values.email} />
+                <input className='form-control' type = 'email' placeholder='E-mail' name = 'email' value = {values.email} />
             </div>                               
             </div>
 
