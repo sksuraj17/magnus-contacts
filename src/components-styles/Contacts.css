@@ -1,0 +1,17 @@
+*{
+    font-family: 'Trebuchet MS';
+}
+
+.mainHeading{
+    padding-top: 20px;
+    color: darkblue;
+}
+
+.mainDes{
+    padding-bottom: 25px;
+    color:teal ;
+}
+
+.mainHead{
+    background-color: red;
+}
